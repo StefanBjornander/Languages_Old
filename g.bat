@@ -24,7 +24,7 @@
 @git commit -m "Backup"
 @git remote remove origin
 @git remote add origin https://github.com/StefanBjornander/Code.git
-@git push origin master
+@git push origin main
 @rem pause
 
 @cd "C:\Users\Stefa\Documents\GenerateAssembler"
