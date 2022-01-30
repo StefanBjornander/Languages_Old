@@ -4,9 +4,10 @@
 
 @c:
 @cd "C:\Users\stefa\Documents\A A C_Compiler_CSharp_10"
-@git add C_Compiler_CSharp_10
-@git add Calculator_CS_10
-@git add C_Compiler_CSharp_10.sln
+@git add .
+rem @git add C_Compiler_CSharp_10
+rem @git add Calculator_CS_10
+rem @git add C_Compiler_CSharp_10.sln
 @git commit -m "Backup"
 @git remote remove origin
 @git remote add origin https://github.com/StefanBjornander/CCompiler.git
