@@ -9,7 +9,7 @@
 @git add C_Compiler_CSharp_10.sln
 @git commit -m "Backup"
 @git remote remove origin
-@git remote add origin https://@github.com/StefanBjornander/CCompiler.git
+@git remote add origin https://github.com/StefanBjornander/CCompiler.git
 @git push origin master
 @rem pause
 
@@ -17,7 +17,7 @@
 @git add C_Compiler_CSharp_Assembly
 @git commit -m "Backup"
 @git remote remove origin
-@git remote add origin https://@github.com/StefanBjornander/CCompiler_Assembly.git
+@git remote add origin https://github.com/StefanBjornander/CCompiler_Assembly.git
 @git push origin master
 @rem pause
 
@@ -33,7 +33,7 @@
 @git add scala
 @git commit -m "Backup"
 @git remote remove origin
-@git remote add origin https://@github.com/StefanBjornander/Code.git
+@git remote add origin https://github.com/StefanBjornander/Code.git
 @git push origin master
 @rem pause
 
@@ -46,7 +46,7 @@
 @git add manifest.mf
 @git commit -m "Backup"
 @git remote remove origin
-@git remote add origin https://@github.com/StefanBjornander/GenerateAssembler.git
+@git remote add origin https://github.com/StefanBjornander/GenerateAssembler.git
 @git push origin master
 @rem pause
 
@@ -59,7 +59,7 @@
 @git add manifest.mf
 @git commit -m "Backup"
 @git remote remove origin
-@git remote add origin https://@github.com/StefanBjornander/ObjectCodeTableGeneratorCSharp.git
+@git remote add origin https://github.com/StefanBjornander/ObjectCodeTableGeneratorCSharp.git
 @git push origin master
 @rem pause
 
@@ -72,7 +72,7 @@
 @git add manifest.mf
 @git commit -m "Backup"
 @git remote remove origin
-@git remote add origin https://@github.com/StefanBjornander/ObjectCodeTableGeneratorJava.git
+@git remote add origin https://github.com/StefanBjornander/ObjectCodeTableGeneratorJava.git
 @git push origin master
 @rem pause
 
@@ -97,6 +97,6 @@
 @git add languages.txt
 @git commit -m "Backup"
 @git remote remove origin
-@git remote add origin https://@github.com/StefanBjornander/Languages.git
+@git remote add origin https://github.com/StefanBjornander/Languages.git
 @git push origin master
 @pause
