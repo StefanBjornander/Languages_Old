@@ -67,19 +67,6 @@
 @git add nbproject
 @git add src
 @git add test
-@rem @git add build
-@git add build.xml
-@git add manifest.mf
-@git commit -m "Backup"
-@git remote remove origin
-@git remote add origin https://@github.com/StefanBjornander/ObjectCodeTableGeneratorJava.git
-@git push origin master
-@rem pause
-
-@cd "C:\Users\stefa\Documents\ObjectCodeTableGeneratorJava"
-@git add nbproject
-@git add src
-@git add test
 @rem git add build
 @git add build.xml
 @git add manifest.mf
@@ -105,7 +92,7 @@
 @git add Swift
 @git add V
 @git add g.bat
-@git add languaes.txt
+@git add languages.txt
 @git commit -m "Backup"
 @git remote remove origin
 @git remote add origin https://@github.com/StefanBjornander/Languages.git
