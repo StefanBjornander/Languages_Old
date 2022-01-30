@@ -77,6 +77,8 @@
 @rem pause
 
 @cd "C:\Users\stefa\Documents\Languages"
+@git add CPlusPlus
+@git add CSharp
 @git add Dart
 @git add Elixir
 @git add Erlang
