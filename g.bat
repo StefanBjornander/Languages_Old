@@ -8,7 +8,7 @@
 @git commit -m "Backup"
 @git remote remove origin
 @git remote add origin https://github.com/StefanBjornander/CCompiler.git
-@git push origin main
+@git push origin master
 @rem pause
 
 @cd "C:\Users\Stefa\Documents\A A A C_Compiler_Assembler - CSharp 0 Assembly"
@@ -16,7 +16,7 @@
 @git commit -m "Backup"
 @git remote remove origin
 @git remote add origin https://github.com/StefanBjornander/CCompiler_Assembly.git
-@git push origin main
+@git push origin master
 @rem pause
 
 @cd "C:\Users\Stefa\Documents\vagrant\homestead\code"
@@ -24,8 +24,8 @@
 @git commit -m "Backup"
 @git remote remove origin
 @git remote add origin https://github.com/StefanBjornander/Code.git
-@git pull origin main
-@git push origin main
+@git pull origin master
+@git push origin master
 @rem pause
 
 @cd "C:\Users\Stefa\Documents\GenerateAssembler"
@@ -33,7 +33,7 @@
 @git commit -m "Backup"
 @git remote remove origin
 @git remote add origin https://github.com/StefanBjornander/GenerateAssembler.git
-@git push origin main
+@git push origin master
 @rem pause
 
 @cd "C:\Users\stefa\Documents\ObjectCodeTableGeneratorCSharp"
@@ -41,7 +41,7 @@
 @git commit -m "Backup"
 @git remote remove origin
 @git remote add origin https://github.com/StefanBjornander/ObjectCodeTableGeneratorCSharp.git
-@git push origin main
+@git push origin master
 @rem pause
 
 @cd "C:\Users\stefa\Documents\ObjectCodeTableGeneratorJava"
@@ -49,7 +49,7 @@
 @git commit -m "Backup"
 @git remote remove origin
 @git remote add origin https://github.com/StefanBjornander/ObjectCodeTableGeneratorJava.git
-@git push origin main
+@git push origin master
 @rem pause
 
 @cd "C:\Users\stefa\Documents\Languages"
@@ -57,5 +57,5 @@
 @git commit -m "Backup"
 @git remote remove origin
 @git remote add origin https://github.com/StefanBjornander/Languages.git
-@git push origin main
+@git push origin master
 @pause
